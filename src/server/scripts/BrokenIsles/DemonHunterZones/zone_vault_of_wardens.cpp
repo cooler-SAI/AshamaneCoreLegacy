@@ -69,6 +69,7 @@ Position const secondStagePath[] =
 
 size_t const pathSize = std::extent<decltype(secondStagePath)>::value;
 
+/// 99443
 struct npc_vault_of_the_wardens_vampiric_felbat : public ScriptedAI
 {
     npc_vault_of_the_wardens_vampiric_felbat(Creature* creature) : ScriptedAI(creature) { }
