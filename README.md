@@ -59,3 +59,4 @@ Read file [THANKS](THANKS).
 
 * [Wiki](https://www.trinitycore.info)
 * [TrinityCore](https://www.trinitycore.org/)
+* [Discord](https://discord.trinitycore.org/)
